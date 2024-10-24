@@ -19,5 +19,3 @@ android {
 dependencies {
     implementation kotlinStdlib
 }
-
-apply from: rootProject.file('gradle/publish-mavencentral.gradle')
